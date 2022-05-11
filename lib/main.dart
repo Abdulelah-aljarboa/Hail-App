@@ -125,7 +125,12 @@ class _MyHomePageState extends State<MyHomePage> {
                         iconSize: 40,
                       ),
                     ),
-                    Container(),
+                    Container(
+                      padding: const EdgeInsets.only(left: 45),
+                      child: Image.asset('assets/image5.png'),
+                      width: 250,
+                      height: 75,
+                    ),
                   ],
                 ),
               ),
