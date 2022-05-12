@@ -252,6 +252,17 @@ class _MyHomePageState extends State<MyHomePage> {
                   //Announcements Row
                   children: [
                     ButtonCards(
+                      inputText: "College of Computer scinece and information",
+                      image: 'assets/image4.png',
+                      onTap: ArticlePage(
+                        index: 2,
+                        inputText:
+                            "College of Computer scinece and information systems looking for teachers",
+                        image: 'assets/image4.png',
+                        scaffoldKey: scaffoldKey,
+                      ),
+                    ),
+                    ButtonCards(
                       inputText: "College of Medicine looking for teachers...",
                       image: 'assets/image4.png',
                       onTap: ArticlePage(
