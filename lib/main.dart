@@ -209,6 +209,17 @@ class _MyHomePageState extends State<MyHomePage> {
                   // News Row
                   children: [
                     ButtonCards(
+                      inputText: "The Stategic Plan Team has begun The..",
+                      image: 'assets/image1.jpg',
+                      onTap: ArticlePage(
+                        index: 2,
+                        inputText:
+                            "The Strategic Plan Team "18-23" Holds It's First Meeting Under The Chairmanship Of The Sector",
+                        image: 'assets/image1.jpg',
+                        scaffoldKey: scaffoldKey,
+                      ),
+                    ),
+                    ButtonCards(
                       inputText: "\"Creativity Oasis\" is preparing for..",
                       image: 'assets/image2.jpg',
                       onTap: ArticlePage(
