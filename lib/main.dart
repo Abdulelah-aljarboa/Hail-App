@@ -214,7 +214,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       onTap: ArticlePage(
                         index: 2,
                         inputText:
-                            "The Strategic Plan Team "18-23" Holds It's First Meeting Under The Chairmanship Of The Sector",
+                            "The Strategic Plan Team \"18-23\" Holds It's First Meeting Under The Chairmanship Of The Sector",
                         image: 'assets/image1.jpg',
                         scaffoldKey: scaffoldKey,
                       ),
