@@ -1,10 +1,14 @@
-# Hail_app📖
+# Hail University App📖
 
-Hail App project For course CS290 - CS392 is an app made for the Hail university as an information and utility app
+Hail University App is made as a project for the software engineering course, it is a companion app that will help
+the students and faculty as an information and utility app.
+
+It is made with the Flutter framework and Dart language as it is great for cross-platform development.
+
 
 ## Getting Started🚀
 
-First you need to install Flutter through here 
+First, you need to install Flutter here 
 
 https://flutter.dev
 
