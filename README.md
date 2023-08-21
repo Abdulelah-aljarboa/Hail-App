@@ -1,6 +1,6 @@
 # Hail University App📖
 
-Hail University App is made as a project for the software engineering course, it is a companion app that will help
+Hail University App is made as a project for the software engineering course, it will help
 the students and faculty as an information and utility app.
 
 It is made with the Flutter framework and Dart language as it is great for cross-platform development.
