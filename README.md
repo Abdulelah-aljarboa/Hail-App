@@ -30,3 +30,8 @@ https://developer.android.com/studio/intro
 How to set up the emulator
 
 https://developer.android.com/studio/run/emulator
+
+
+# Screen Shots
+![](./images/1.png)
+![](./images/2.png)
